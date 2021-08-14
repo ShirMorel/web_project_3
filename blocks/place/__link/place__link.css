@@ -8,3 +8,9 @@
   text-decoration-line: underline;
   cursor: pointer;
 }
+
+@media screen and (max-width:1024px) {
+  .place__link {
+    margin-top: 12px;
+  }
+}
