@@ -2,26 +2,26 @@
   font-family: inter;
   font-weight: normal;
   font-style: normal;
-  src: url(../fonts/Inter-Regular.otf) format(opentype);
+  src: url(../fonts/Inter-Regular.otf) format('opentype');
 }
 
 @font-face {
   font-family: inter;
   font-weight: medium;
   font-style: normal;
-  src: url(../fonts/Inter-Medium.otf) format(opentype);
+  src: url(../fonts/Inter-Medium.otf) format('opentype');
 }
 
 @font-face {
   font-family: inter;
   font-weight: bold;
   font-style: normal;
-  src: url(../fonts/Inter-Bold.otf) format(opentype);
+  src: url(../fonts/Inter-Bold.otf) format('opentype');
 }
 
 @font-face {
   font-family: inter;
   font-weight: 900;
   font-style: normal;
-  src: url(../fonts/Inter-Black.otf) format(opentype);
+  src: url(../fonts/Inter-Black.otf) format('opentype');
 }
