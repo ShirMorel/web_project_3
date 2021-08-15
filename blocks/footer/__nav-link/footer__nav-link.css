@@ -6,6 +6,11 @@
   font-size: 16px;
   line-height: 112%;
   cursor: pointer;
+  transition: 0.2s;
+}
+
+.footer__nav-link:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width:320px) {
